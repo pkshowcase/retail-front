@@ -1,4 +1,4 @@
-ejb-front
-=========
+retail-front
+============
 
-ejb-front
+Retail Store front-end
